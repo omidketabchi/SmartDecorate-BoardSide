@@ -60,7 +60,7 @@ void loop() {
 	server.handleClient();
 
 	ledStrip.startEffectMode();
-}
+} 
 
 void manageLightBulb()
 {
