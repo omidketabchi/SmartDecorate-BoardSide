@@ -93,7 +93,7 @@ void manageLightBulb()
 			}
 		}
 	}
-}
+} 
 
 void manageLedStrip()
 {
